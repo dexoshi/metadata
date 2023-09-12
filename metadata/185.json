@@ -1,0 +1,25 @@
+{
+  "name": "0xB9",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/185.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/185.png?raw=true",
+  "description": "Dexoshi Card #185",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 185
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0xB9"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

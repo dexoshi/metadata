@@ -1,0 +1,25 @@
+{
+  "name": "0x23",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/35.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/35.png?raw=true",
+  "description": "Dexoshi Card #35",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 35
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x23"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

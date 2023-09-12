@@ -1,0 +1,25 @@
+{
+  "name": "0xBB",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/187.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/187.png?raw=true",
+  "description": "Dexoshi Card #187",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 187
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0xBB"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

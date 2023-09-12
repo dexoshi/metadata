@@ -1,0 +1,25 @@
+{
+  "name": "0x3A",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/58.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/58.png?raw=true",
+  "description": "Dexoshi Card #58",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 58
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x3A"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "A"
+    }
+  ]
+}

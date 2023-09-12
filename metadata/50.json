@@ -1,0 +1,25 @@
+{
+  "name": "0x32",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/50.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/50.png?raw=true",
+  "description": "Dexoshi Card #50",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 50
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x32"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "A"
+    }
+  ]
+}

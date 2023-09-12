@@ -1,0 +1,25 @@
+{
+  "name": "0x6C",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/108.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/108.png?raw=true",
+  "description": "Dexoshi Card #108",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 108
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x6C"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*******"
+    },
+    {
+      "trait_type": "Class",
+      "value": "B"
+    }
+  ]
+}

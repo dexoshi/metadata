@@ -1,0 +1,25 @@
+{
+  "name": "0x9E",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/158.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/158.png?raw=true",
+  "description": "Dexoshi Card #158",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 158
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x9E"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "A"
+    }
+  ]
+}

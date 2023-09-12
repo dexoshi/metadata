@@ -1,0 +1,25 @@
+{
+  "name": "0x10",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/16.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/16.png?raw=true",
+  "description": "Dexoshi Card #16",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 16
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x10"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*****"
+    },
+    {
+      "trait_type": "Class",
+      "value": "D"
+    }
+  ]
+}

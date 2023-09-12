@@ -1,0 +1,25 @@
+{
+  "name": "0xE3",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/227.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/227.png?raw=true",
+  "description": "Dexoshi Card #227",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 227
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0xE3"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

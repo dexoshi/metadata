@@ -1,0 +1,25 @@
+{
+  "name": "0xFA",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/250.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/250.png?raw=true",
+  "description": "Dexoshi Card #250",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 250
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0xFA"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "A"
+    }
+  ]
+}

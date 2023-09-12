@@ -1,0 +1,25 @@
+{
+  "name": "0x05",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/5.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/5.png?raw=true",
+  "description": "Dexoshi Card #5",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 5
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x05"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

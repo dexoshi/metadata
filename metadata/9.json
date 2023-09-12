@@ -1,0 +1,25 @@
+{
+  "name": "0x09",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/9.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/9.png?raw=true",
+  "description": "Dexoshi Card #9",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 9
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x09"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

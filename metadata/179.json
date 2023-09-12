@@ -1,0 +1,25 @@
+{
+  "name": "0xB3",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/179.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/179.png?raw=true",
+  "description": "Dexoshi Card #179",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 179
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0xB3"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

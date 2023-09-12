@@ -1,0 +1,25 @@
+{
+  "name": "0x98",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/152.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/152.png?raw=true",
+  "description": "Dexoshi Card #152",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 152
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x98"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "******"
+    },
+    {
+      "trait_type": "Class",
+      "value": "C"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "0xB8",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/184.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/184.png?raw=true",
+  "description": "Dexoshi Card #184",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 184
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0xB8"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "******"
+    },
+    {
+      "trait_type": "Class",
+      "value": "C"
+    }
+  ]
+}

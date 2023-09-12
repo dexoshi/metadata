@@ -1,0 +1,25 @@
+{
+  "name": "0x4B",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/75.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/75.png?raw=true",
+  "description": "Dexoshi Card #75",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 75
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x4B"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "*********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "S"
+    }
+  ]
+}

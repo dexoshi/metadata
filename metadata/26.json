@@ -1,0 +1,25 @@
+{
+  "name": "0x1A",
+  "image": "ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/26.png",
+  "cacheImage": "https://github.com/dexoshi/cards/blob/main/cards/26.png?raw=true",
+  "description": "Dexoshi Card #26",
+  "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": 26
+    },
+    {
+      "trait_type": "Hex",
+      "value": "0x1A"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "********"
+    },
+    {
+      "trait_type": "Class",
+      "value": "A"
+    }
+  ]
+}
