@@ -4,7 +4,7 @@ const cards = require("./cards.json");
 for (let card in cards) {
   const metadata = {
     name: `0x${Number(card).toString(16).padStart(2, "0").toUpperCase()}`,
-    image: `ipfs://bafybeigxvgxcaukp6xnmz3ksya4sghptxrdlns5gghqvuvz6tadpirpc5m/${card}.png`,
+    image: `https://ipfs.io/ipfs/bafybeiasmykcoebpnrhuuminmczqlvqeimuxtfwyuku2bh2mzi75satrgy/${card}.png`,
     cacheImage: `https://github.com/dexoshi/cards/blob/main/cards/${card}.png?raw=true`,
     description: `Dexoshi Card #${card}`,
     external_url: "https://www.lensfrens.xyz/dexoshi.lens",
