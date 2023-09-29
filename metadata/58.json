@@ -1,6 +1,6 @@
 {
   "name": "0x3A",
-  "image": "https://ipfs.io/ipfs/bafybeiazjjtzjyvbrif6sgvzmuakhhnpo6jyrxfasaf36queafcvd4xqhq/58.gif",
+  "image": "https://ipfs.io/ipfs/bafybeihl2wdf75n2ga3pkatl3pl7a4iqgbfqgpcdzd3iu2fauue33co6ni/58.gif",
   "cacheImage": "https://github.com/dexoshi/cards/blob/main/gif/58.gif?raw=true",
   "description": "Dexoshi Card #58",
   "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Stars",
-      "value": "********"
+      "value": "******"
     },
     {
       "trait_type": "Class",

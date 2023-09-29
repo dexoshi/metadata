@@ -1,6 +1,6 @@
 {
   "name": "0x01",
-  "image": "https://ipfs.io/ipfs/bafybeiazjjtzjyvbrif6sgvzmuakhhnpo6jyrxfasaf36queafcvd4xqhq/1.gif",
+  "image": "https://ipfs.io/ipfs/bafybeihl2wdf75n2ga3pkatl3pl7a4iqgbfqgpcdzd3iu2fauue33co6ni/1.gif",
   "cacheImage": "https://github.com/dexoshi/cards/blob/main/gif/1.gif?raw=true",
   "description": "Dexoshi Card #1",
   "external_url": "https://www.lensfrens.xyz/dexoshi.lens",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Stars",
-      "value": "*********"
+      "value": "*******"
     },
     {
       "trait_type": "Class",
